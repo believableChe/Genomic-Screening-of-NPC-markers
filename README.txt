@@ -1,6 +1,4 @@
-April 25, 2016
 Liheng Che
-cheliheng@126.com
 
 -------------------------------------
 1.Filter_long_single_copy_seqs.py
